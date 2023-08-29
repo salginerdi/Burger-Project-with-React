@@ -1,3 +1,4 @@
 Bu React uygulaması, çok sayfalı bir web sitesi şablonunu temsil eder. Dinamik yönlendirme kullanarak, ana sayfa, menü, hakkında ve iletişim sayfalarını içeren bir kullanıcı arayüzü sunar.
 
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7097414699222282240" height="577" width="504" frameborder="0" allowfullscreen="" title="Gömülü gönderi"></iframe>
+Çalışma şekli videodaki gibidir.
+https://www.linkedin.com/posts/erdisalgin_react-reactjs-activity-7097414767954305024-c-zT?utm_source=share&utm_medium=member_desktop
